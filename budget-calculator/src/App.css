@@ -1,4 +1,26 @@
 .App {
+  background-color: lightyellow;
+  padding: 20px;
+  min-height: 100vh;
+}
+
+.title {
+  text-align: center;
+}
+
+.content-box {
+  background-color: skyblue; /* 또는 white */
+  padding: 20px;
+  border-radius: 10px;
+  max-width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.total-cost {
+  margin-top: 20px;
+  font-size: 20px;
+  font-weight: bold;
   text-align: center;
 }
 
